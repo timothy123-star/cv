@@ -1,0 +1,103 @@
+body{
+  font-size: 100%;
+  margin: 0;
+  text-align: center;
+  width: auto;
+}
+.firstImage{
+  width: auto;
+  margin-bottom: 100px;
+}
+.image1{
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.century{
+  margin: 0;
+  padding-bottom: 40px;
+  position: relative;
+
+}
+hr{
+  border: dotted 6px #8BBCCC;
+  border-bottom: none;
+  width: 10%;
+  margin: auto;
+}
+.image5{
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 0;
+  background-color: #4C6793;
+}
+
+.image6{
+  width: 50%;
+  margin: 100px auto;
+}
+.image7{
+  width: 50%;
+  margin: 100px auto;
+}
+.image8{
+  width: 50%;
+  margin: 100px auto;
+}
+.imaged{
+  width: 50%;
+  margin: 100px auto;
+}
+.text{
+  font-family: 'IBM Plex Mono', arial, sans-serif;
+  text-align: center;
+  line-height: 2;
+  font-size: 1.5rem;
+}
+.float1{
+  float: left;
+}
+.float2{
+  float: right;
+}
+footer{
+  margin: 0;
+  background-color:#4C6793;
+  position: absolute;
+  bottom: auto;
+  width: 100%;
+}
+.btn {
+  background:  #8BBCCC;
+  background-image: -webkit-linear-gradient(top,  #8BBCCC,  #8BBCCC);
+  background-image: -moz-linear-gradient(top,  #8BBCCC,  #8BBCCC);
+  background-image: -ms-linear-gradient(top,  #8BBCCC,  #8BBCCC);
+  background-image: -o-linear-gradient(top,  #8BBCCC,  #8BBCCC);
+  background-image: linear-gradient(to bottom,  #8BBCCC,  #8BBCCC);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 40px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4C6793;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.header{
+  color: #8BBCCC;
+  margin: 30px auto;
+}
+a{
+  margin-bottom: 30px;
+}
